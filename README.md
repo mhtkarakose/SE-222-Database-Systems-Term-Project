@@ -35,16 +35,19 @@ The necessary codes have been added.
 * Customer_ReadAll
 All customers print on the screen. 
 How does it work?
+
    <code> exec Customer_ReadAll; </code>
    
 * Customer_ReadById
 Writes the selected customer information to the screen.
 How does it work?
+
 	<code> exec Customer_ReadById [Enter the int DustomerId]; </code>
 
 * Customer_Add
 Add customer :)
 How does it work?
+
 	<code> exec Customer_Add(@Id,
 						  @Email,
 						  @CustomerPass,
@@ -55,6 +58,7 @@ How does it work?
 * Customer_Add_Address
 The address information of the customer is entered in the address table.
 How does it work?
+
 	<code> exec Customer_Add_Address(@Id,
 						  @CustomerId,
 						  @AddressName,
@@ -64,21 +68,25 @@ How does it work?
 * Customer_ReadAll_Address
 All customer addresses on the screen.
 How does it work?
+
 	<code> exec Customer_ReadAll_Address;</code>
 	
 * Customer_ReadById_Address
 The selected customer addresses are displayed on the screen.
 How does it work?
+
 	<code> exec Customer_ReadById_Address [Enter the int CustomerId];</code>
 
 * Customer_Bill
 The invoice belongs to the selected customer.
 How does it work?
+
 	<code> exec Customer_Bill[Enter the int CustomerId];</code>
 	
 * Product_Add
 Adding products to the system.
 How does it work?
+
 	<code> exec Product_Add(@ProductId,
 						  @CategoryId,
 						  @ProductName,
