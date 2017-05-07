@@ -96,6 +96,15 @@ How does it work?
 						  @Stock)
 	;</code>
  
+#### <i class="icon-pencil"></i> Triggers
+
+* Stock_Takip
+
+Stocks for each product ordered are replaced.
+
+* TotalPrice
+
+It subtracts the total price of the ordered product to the customer bill.
 
 
 
