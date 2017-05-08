@@ -106,6 +106,11 @@ Stocks for each product ordered are replaced.
 
 It subtracts the total price of the ordered product to the customer bill.
 
+#### <i class="icon-pencil"></i> Team
+
+Mehmet KARAKÖSE
+Yağız Ismail GAZIBABA
+
 
 
 
