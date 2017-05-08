@@ -108,7 +108,8 @@ It subtracts the total price of the ordered product to the customer bill.
 
 #### <i class="icon-pencil"></i> Team
 
-Mehmet KARAKÖSE,
+Mehmet KARAKOSE,
+
 Yağız Ismail GAZIBABA
 
 
